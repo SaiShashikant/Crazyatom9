@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Crazyatom9
 - 👀 I’m interested in Cloud
 - 🌱 I’m currently learning AWS solution Artitect Associate
 - 💞️ I’m looking to collaborate on aws
